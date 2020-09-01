@@ -28,7 +28,12 @@ Example: `VPN_USER=zosman`
 
 > Please note if you are faculty you will have to change the `TYPE` Paramater to `GENERAL` (Or whatever you use when connecting to the VPN normally)
 
-6. Last step! You made it!
+6. Put your VPN password in a file called `.pass_file` (in the `gmu-vpn-slicer` folder)
+
+(Please note, this is the most insecure part of this so far, in the coming week or so i'll figure out a more secure way to store passwords, also feel free to sugguest a better way in the issues or with a PR)
+
+
+7. Last step! You made it!
 
 This will link your service to your systems systemd services
 
