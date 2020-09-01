@@ -26,7 +26,7 @@ Example: `WorkingDirectory=/home/zosman/gmu-vpn-slicer/`
 
 Example: `VPN_USER=zosman`
 
-> Please note if you are faculty you will have to change the `TYPE` Paramater to `GENERAL` (i think? pls confirm)
+> Please note if you are faculty you will have to change the `TYPE` Paramater to `GENERAL` (Or whatever you use when connecting to the VPN normally)
 
 6. Last step! You made it!
 
