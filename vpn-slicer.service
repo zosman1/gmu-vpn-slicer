@@ -1,0 +1,13 @@
+[Unit]
+Description=GMU VPN Sliced
+After=network.target
+
+[Service]
+User=root
+ExecStart=/bin/bash ./vpn-slicer.sh
+WorkingDirectory=
+Type=exec
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
