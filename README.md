@@ -2,6 +2,12 @@
 
 this is an implementation of https://github.com/dlenski/vpn-slice for the george mason university VPN
 
+## Usage
+
+This should allow you to connect to masons servers, (Zeus, mason.gmu.edu) without routing all of your network through their vpn.
+
+Personally i use this on raspberry pi to ssh jump into zeus without having the mason VPN installed on each of my devices.
+
 ## Install
 
 > For any help please join masonlug.slack.com and i'll be happy to assist
